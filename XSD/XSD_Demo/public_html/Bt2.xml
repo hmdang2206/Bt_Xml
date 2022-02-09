@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+
+
+<class
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='Bt2.xsd'>
+    <teacher>
+        <fullname>Teacher A</fullname>
+        <subject>XML</subject>
+        <phone>0263956847</phone>
+    </teacher>
+    <student>
+        <fullname>Student A</fullname>
+        <age>24</age>
+        <phone>0632995846</phone>
+    </student>
+
+</class>
+

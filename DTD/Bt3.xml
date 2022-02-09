@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE student [
+<!ELEMENT student (fullname,age,phone)>
+<!ELEMENT fullname (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT phone (#PCDATA)>
+<!ATTLIST student id CDATA #REQUIRED>
+<!ATTLIST fullname another_name CDATA #IMPLIED>
+]>
+
+    <student id ="1">
+        <fullname>Student A</fullname>
+        <age>17</age>
+        <phone>0263584785</phone>
+    </student>
+

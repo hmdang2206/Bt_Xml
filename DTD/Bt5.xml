@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+<!DOCTYPE html SYSTEM 'Bt5.dtd'>
+
+
+<html>
+    <head>
+        <title></title>
+        <link href=""></link>
+        <script src=""></script>
+    </head>
+    <body>
+        <div>
+            <table>
+                <tr>
+                    <td></td>
+                </tr>
+            </table>
+            <p>
+            </p>
+            <a src=""></a>
+            <p></p>
+        </div>
+        <span>
+            <p></p>
+        </span>
+    </body>
+</html>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+<!DOCTYPE class SYSTEM 'Bt2_external.dtd'>
+<class>
+    <teacher>
+        <fullname>Teacher A</fullname>
+        <subject>Xml</subject>
+        <phone>0216584723</phone>
+    </teacher>
+    <student>
+        <fullname>Student A</fullname>
+        <age>17</age>
+        <phone>0263584785</phone>
+    </student>
+</class>
+

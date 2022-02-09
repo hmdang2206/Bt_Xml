@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE class [
+<!ELEMENT class (teacher+,student+)>
+<!ELEMENT teacher (fullname,subject,phone)>
+<!ELEMENT student (fullname,age,phone)>
+<!ELEMENT fullname (#PCDATA)>
+<!ELEMENT subject (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT phone (#PCDATA)>
+]>
+<class>
+    <teacher>
+        <fullname>Teacher A</fullname>
+        <subject>Xml</subject>
+        <phone>0216584723</phone>
+    </teacher>
+    <student>
+        <fullname>Student A</fullname>
+        <age>17</age>
+        <phone>0263584785</phone>
+    </student>
+</class>
+

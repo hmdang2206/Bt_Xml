@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT html (head+,body+)>
+<!ELEMENT head (title+,link+,script*)>
+<!ELEMENT body ((div|span)+,script*)>
+<!ELEMENT div ((p|a|table|div)+)>
+<!ELEMENT span ((p|a|table|span)+)>
+<!ELEMENT table (tr+)>
+<!ELEMENT tr (td+)>
+<!ELEMENT p (#PCDATA)>
+<!ELEMENT a (#PCDATA)>
+<!ELEMENT td (#PCDATA)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT link (#PCDATA)>
+<!ATTLIST link href CDATA #REQUIRED>
+<!ELEMENT script (#PCDATA)>
+<!ATTLIST script src CDATA #REQUIRED>
+<!ATTLIST a src CDATA #REQUIRED>
+

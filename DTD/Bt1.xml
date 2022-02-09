@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+<!DOCTYPE student SYSTEM 'Bt1.dtd'>
+<student>
+    <fullname>Nguyen Van A</fullname>
+    <age>20</age>
+    <phone>123405896</phone>
+</student>
+
